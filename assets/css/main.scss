@@ -6,3 +6,55 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+body{
+    // Font-size customization and breakpoint
+
+    font-size: 16px;
+
+    @include breakpoint($small) {
+        font-size: 18px;
+        .footer-note {
+          width: 100%;
+        }
+    }
+
+    @include breakpoint($medium) {
+        font-size: 18px;
+        .footer-note {
+          width: 40%;
+        }
+    }
+
+    @include breakpoint($large) {
+        font-size: 18px;
+        .footer-note {
+          width: 50%;
+        }
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px;
+    }
+}
+
+// Author Profile
+
+.sidebar h3 {
+    margin-bottom:  20px;
+}
+
+.author__avatar img {
+    max-width:      150px;
+}
+
+// Link font
+.a_class {
+    font-size:      16px;
+}
+
+// UL list
+.ul1>li {
+    margin-top:     20px;
+    margin-bottom:  0px; 
+}

@@ -1,54 +1,63 @@
 ---
-title: "Hi, I'm Alex Shoop"
+title: "Hi, こんにちは, and bienvenue"
 layout: single
 permalink: /
 date: 2018-08-14
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_color: "black"
+  overlay_filter: "0.6"
   overlay_image: /assets/img/IMG_3845-edit.png
 excerpt: "I'm an aspiring Data Scientist."
-feature_row:
-  - image_path: /assets/img/bitcoin/bitcoin_th.jpeg
-    alt: "Bitcoin-VR project thumbnail"
-    title: "Bitcoin-VR"
-    excerpt: "Deployed Bitcoin transaction visualization using React-VR and socket.io."
-    image_url: /bitcoinvr/
-    title_url: /bitcoinvr/
-  - image_path: assets/img/datavr/datavr_1.png
-    alt: "Data-VR project thumbnail"
-    title: "Data-VR"
-    excerpt: "Exploration into VR data visualizations and the early bitcoin-vr."
-    image_url: /datavr/
-    title_url: /datavr/
-  - image_path: /assets/img/blog360/blog360_1.png
-    alt: "Blog360 project thumbnail"
-    title: "Blog360"
-    excerpt: "Three day Hackathon project experimenting with the web viewed in VR."
-    image_url: /blog360/
-    title_url: /blog360/
-  - image_path: /assets/img/agoraSS/agora_th.png
-    alt: "Agora project thumbnail"
-    title: "Agora, Chairs!"
-    image_url: /agora/
-    title_url: /agora/
-    excerpt: "The classiest chair selling e-commerce site built using React, Node.js, and bootstrap."
-  - image_path: /assets/img/blockchain/blockchain-th.png
-    alt: "Blockchain tech talk project thumbnail"
-    title: "Blockchain Tech Talk"
-    excerpt: "Presentation on the blockchain and it's impact on the modern economy."
-    image_url: /blockchain/
-    title_url: /blockchain/
 ---
 
-<noscript><p class="notice--warning">Enable JavaScript for best experience! Oh... Not interested? Welp, as you were friend! ¯\_(ツ)_/¯</p></noscript>
+<noscript><p class="notice--warning">Enable JavaScript for best experience!</p></noscript>
 
 <h2 id="about">About Me</h2>
 
-<p>this is about me</p>
+<p>I am a current graduate student at Worcester Polytechnic Institute (WPI) studying for a Masters in Data Science. I am very interested in the field of Machine Learning, Data Visualization, and the unique results achievable when combining Business with Data Science.</p>
 
-<p>this is another paragraph about me</p>
+<p>I graduated with a Double BS in Actuarial Math and Computer Science from WPI in 2016. I also graduated with an MS in Financial Math from WPI in late 2017. I am on track to graduate with an MS in Data Science in late 2018.</p>
+
+<p>My other interests and hobbies include international travels (I'm fluent in English, Japanese, and French) as well as video production and filmmaking.</p>
+
+<h2 id="projects">Projects</h2>
+
+<h3 id="acad">Professional Work</h3>
+<ul class="ul1">
+    <li>Harvard Pilgrim Healthcare: Healthcare Data Analyst Intern</li>
+        <p style="font-style:italic; font-size:15px; color:grey">More details coming soon...</p>
+    <li>Sun Life Financial: Actuarial Analyst Intern</li>
+        <p style="font-style:italic; font-size:15px; color:grey">More details coming soon...</p>
+</ul>
+
+<h3 id="acad">Academic Work</h3>
+<ul class="ul1">
+    <li>CS 573: Signal Search of Boston Liquor Venues</li>
+        <a class="a_class" href="https://akshoop.github.io/DataVisFinal/">Demo</a>,
+        <a class="a_class" href="https://github.com/akshoop/CS573-DataVis">Github</a>
+    <li>FinMath Practicum: Evaluation of Fintech Companies using Big Data Tools</li>
+        <a class="a_class" href="/assets/img/Fintech-Graduate-Final-Report_V2-draft.pdf">Research paper</a>
+    <li>MA 574: Portfolio Valuation and Risk Management using MPT and CAPM</li>
+        <a class="a_class" href="/assets/img/MA_574_Final_Report.pdf">Research paper</a>
+    <li>MA 573: Pricing of barrier options through calibrated CEV model using Monte-Carlo methods</li>
+        <a class="a_class" href="/assets/img/ma573_project(FINAL).pdf">Research paper</a>
+    <li>Major Qualifying Project: DevOps for Continuous Delivery</li>
+        <a class="a_class" href="/assets/img/WallSt_Barclays2_paper_final_withMathMQP.pdf">Research paper</a>
+    <li>CS 3733: Software Engineering Task Manager Project</li>
+        <a class="a_class" href="https://github.com/SixAppeal/wpi-suite">Github</a>
+    <li>Interactive Qualifying Project: Analysis of Consumer Energy Behavior in Worcester, England</li>
+        <a class="a_class" href="/assets/img/Analyis_of_consumer_energy_behavior_in_the_Arboretum_IQP.pdf">Research paper</a>
+    
+</ul>
+
+<h2 id="education">Education</h2>
+
+<ul>
+    <li>WPI - MS, Data Science (Dec 2018)</li>
+    <li>WPI - MS, Financial Math (Dec 2017)</li>
+    <li>WPI - BS, Actuarial Math and Computer Science (May 2016)</li>
+</ul>
 
 <!--<h2 id="resume">Resume and CV</h2>
 
