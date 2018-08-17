@@ -3,14 +3,14 @@ layout: single
 title: Signal Search of Boston Liquor Venues
 permalink: /proj/datavisfinal/
 author_profile: true
-# tags:
-#   - Web
-#   - D3.js
-#   - Python
-#   - Javascript
-#   - HTML/CSS
-#   - Data Visualization
-#   - Google Maps API
+tags:
+  - Web
+  - D3.js
+  - Python
+  - Javascript
+  - HTML/CSS
+  - Data Visualization
+  - Google Maps API
 ---
 
 {% include video id="GY7AtUghk-g" provider="youtube" %}
