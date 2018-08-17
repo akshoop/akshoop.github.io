@@ -1,11 +1,10 @@
 ---
-title: "Hi, こんにちは, and bienvenue"
+title: "Hi, bonjour, and こんにちは"
 layout: single
 permalink: /
 date: 2018-08-14
 author_profile: true
 header:
-  overlay_color: "black"
   overlay_filter: "0.6"
   overlay_image: /assets/img/IMG_3845-edit.png
 excerpt: "I'm an aspiring Data Scientist."
@@ -34,8 +33,7 @@ excerpt: "I'm an aspiring Data Scientist."
 <h3 id="acad">Academic Work</h3>
 <ul class="ul1">
     <li>CS 573: Signal Search of Boston Liquor Venues</li>
-        <a class="a_class" href="https://akshoop.github.io/DataVisFinal/">Demo</a>,
-        <a class="a_class" href="https://github.com/akshoop/CS573-DataVis">Github</a>
+        <a class="a_class" href="/proj/datavisfinal/">Read more</a>
     <li>FinMath Practicum: Evaluation of Fintech Companies using Big Data Tools</li>
         <a class="a_class" href="/assets/img/Fintech-Graduate-Final-Report_V2-draft.pdf">Research paper</a>
     <li>MA 574: Portfolio Valuation and Risk Management using MPT and CAPM</li>
@@ -51,18 +49,12 @@ excerpt: "I'm an aspiring Data Scientist."
     
 </ul>
 
-<h2 id="education">Education</h2>
+<h2 id="education">Education & Certifications</h2>
 
 <ul>
     <li>WPI - MS, Data Science (Dec 2018)</li>
     <li>WPI - MS, Financial Math (Dec 2017)</li>
     <li>WPI - BS, Actuarial Math and Computer Science (May 2016)</li>
 </ul>
-
-<!--<h2 id="resume">Resume and CV</h2>
-
-<a href="/assets/img/RobinKWilson_ResumeSoftwareEngineer_12-2-2017.pdf" download="RobinKWilson_Resume"><button class="btn btn--primary">Resume Download</button></a>
-<a href="/assets/img/RobinKWilson_CVSoftwareEngineer_12-9-2017.pdf" download="RobinKWilson_CV"><button class="btn btn--primary">CV Download</button></a>-->
-
 
 
