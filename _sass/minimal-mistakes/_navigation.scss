@@ -243,7 +243,7 @@
         visibility: hidden;
         border-radius: 5px;
         transform: scaleX(0);
-        transition: .3s linear;
+        transition: all 0.3s ease-in-out;
         // -webkit-transition: 0.25s linear;//$global-transition;
         // transition: 0.25s linear;//$global-transition;
         // -webkit-transform: scaleX(0) translate3d(0, 0, 0);
