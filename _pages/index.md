@@ -37,7 +37,7 @@ excerpt: "I'm an aspiring Data Scientist."
         <a class="a_class" href="/proj/datavisfinal/">
             <i class="fa fa-link fa-fw"></i> Read more
         </a>
-    <li>FinMath Practicum: Evaluation of Fintech Companies using Big Data Tools</li>
+    <li>Independent Study: Evaluation of Fintech Companies using Big Data Tools</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2017
         <a class="a_class" href="/assets/img/Fintech-Graduate-Final-Report_V2-draft.pdf">
             <i class="fa fa-book fa-fw"></i> Research paper
