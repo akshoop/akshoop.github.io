@@ -25,8 +25,10 @@ excerpt: "I'm an aspiring Data Scientist."
 <h3 id="acad">Professional Work</h3>
 <ul class="ul1">
     <li>Harvard Pilgrim Healthcare: Healthcare Data Analyst Intern</li>
+        <i class="fa fa-calendar fa-fw"></i> June 2018 - July 2018
         <p style="font-style:italic; font-size:15px; color:grey">More details coming soon...</p>
     <li>Sun Life Financial: Actuarial Analyst Intern</li>
+        <i class="fa fa-calendar fa-fw"></i> June 2017 - Aug 2017
         <p style="font-style:italic; font-size:15px; color:grey">More details coming soon...</p>
 </ul>
 
