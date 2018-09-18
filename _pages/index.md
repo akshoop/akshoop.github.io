@@ -2,7 +2,7 @@
 title: "Hi, bonjour, and こんにちは"
 layout: single
 permalink: /
-date: 2018-08-14
+date: 2018-09-18
 author_profile: true
 header:
   overlay_filter: "0.6"
@@ -25,12 +25,12 @@ excerpt: "I'm an aspiring Data Scientist."
 <h3 id="acad">Professional Work</h3>
 <ul class="ul1">
     <li>Harvard Pilgrim Healthcare: Healthcare Data Analyst Intern</li>
-        <i class="fa fa-calendar fa-fw"></i> June 2018 - July 2018
+        <i class="fa fa-calendar fa-fw"></i> Jun 2018 - Jul 2018
         <a class="a_class" href="/hphc/">
             <i class="fa fa-link fa-fw"></i> Read more
         </a>
     <li>Sun Life Financial: Actuarial Analyst Intern</li>
-        <i class="fa fa-calendar fa-fw"></i> June 2017 - Aug 2017
+        <i class="fa fa-calendar fa-fw"></i> Jun 2017 - Aug 2017
         <p style="font-style:italic; font-size:15px; color:grey">More details coming soon...</p>
 </ul>
 
@@ -40,6 +40,11 @@ excerpt: "I'm an aspiring Data Scientist."
         <i class="fa fa-calendar fa-fw"></i> May 2018
         <a class="a_class" href="/proj/datavisfinal/">
             <i class="fa fa-link fa-fw"></i> Read more
+        </a>
+    <li>DS 503: Portfolio Risk Management using Big Data Technologies</li>
+        <i class="fa fa-calendar fa-fw"></i> May 2018
+        <a class="a_class" href="/assets/img/Final_Proposal_503.pdf">
+            <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>Independent Study: Evaluation of Fintech Companies using Big Data Tools</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2017
@@ -67,7 +72,7 @@ excerpt: "I'm an aspiring Data Scientist."
             <i class="fa fa-code fa-fw"></i> Github
         </a>
     <li>Interactive Qualifying Project: Analysis of Consumer Energy Behavior in Worcester, England</li>
-        <i class="fa fa-calendar fa-fw"></i> July 2014
+        <i class="fa fa-calendar fa-fw"></i> Jul 2014
         <a class="a_class" href="/assets/img/Analyis_of_consumer_energy_behavior_in_the_Arboretum_IQP.pdf">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
