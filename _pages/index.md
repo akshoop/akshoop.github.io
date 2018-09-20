@@ -43,42 +43,42 @@ excerpt: "I'm an aspiring Data Scientist."
         </a>
     <li>DS 503: Portfolio Risk Management using Big Data Technologies</li>
         <i class="fa fa-calendar fa-fw"></i> May 2018
-        <a class="a_class" href="/assets/img/Final_Proposal_503.pdf">
+        <a class="a_class" href="/assets/img/Final_Proposal_503.pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>DS 502: Using Statistical Techniques for Historical Customer Purchasing Analysis</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2017
-        <a class="a_class" href="/assets/img/DS502-FINAL_Paper.pdf">
+        <a class="a_class" href="/assets/img/DS502-FINAL_Paper.pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>Independent Study: Evaluation of Fintech Companies using Big Data Tools</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2017
-        <a class="a_class" href="/assets/img/Fintech-Graduate-Final-Report_V2-draft.pdf">
+        <a class="a_class" href="/assets/img/Fintech-Graduate-Final-Report_V2-draft.pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>MA 574: Portfolio Valuation and Risk Management using MPT and CAPM</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2017
-        <a class="a_class" href="/assets/img/MA_574_Final_Report.pdf">
+        <a class="a_class" href="/assets/img/MA_574_Final_Report.pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>MA 573: Pricing of barrier options through calibrated CEV model using Monte-Carlo methods</li>
         <i class="fa fa-calendar fa-fw"></i> May 2017
-        <a class="a_class" href="/assets/img/ma573_project(FINAL).pdf">
+        <a class="a_class" href="/assets/img/ma573_project(FINAL).pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>Major Qualifying Project: DevOps for Continuous Delivery</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2015
-        <a class="a_class" href="/assets/img/WallSt_Barclays2_paper_final_withMathMQP.pdf">
+        <a class="a_class" href="/assets/img/WallSt_Barclays2_paper_final_withMathMQP.pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>CS 3733: Software Engineering Task Manager Project</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2014
-        <a class="a_class" href="https://github.com/SixAppeal/wpi-suite">
+        <a class="a_class" href="https://github.com/SixAppeal/wpi-suite" target="_blank">
             <i class="fa fa-code fa-fw"></i> Github
         </a>
     <li>Interactive Qualifying Project: Analysis of Consumer Energy Behavior in Worcester, England</li>
         <i class="fa fa-calendar fa-fw"></i> Jul 2014
-        <a class="a_class" href="/assets/img/Analyis_of_consumer_energy_behavior_in_the_Arboretum_IQP.pdf">
+        <a class="a_class" href="/assets/img/Analyis_of_consumer_energy_behavior_in_the_Arboretum_IQP.pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     

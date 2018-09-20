@@ -20,7 +20,7 @@ HPHC. Healthcare Data Analytics Internship. Used Tableau. Will write more detail
 
 In the meantime, please check out the Tableau Public link below, or the embedded Tableau dashboard at the bottom of this page.
 
-Tableau Public direct link: [https://public.tableau.com/profile/alex.shoop#!/vizhome/Chisq-Independence-Test-DB-v1/DB1Chi-Square](https://public.tableau.com/profile/alex.shoop#!/vizhome/Chisq-Independence-Test-DB-v1/DB1Chi-Square)
+Tableau Public direct link: [https://public.tableau.com/profile/alex.shoop#!/vizhome/Chisq-Independence-Test-DB-v1/DB1Chi-Square](https://public.tableau.com/profile/alex.shoop#!/vizhome/Chisq-Independence-Test-DB-v1/DB1Chi-Square){:target="_blank"}
 
 <iframe src="https://public.tableau.com/views/Chisq-Independence-Test-DB-v1/DB1Chi-Square?:showVizHome=no&:embed=true"
  width="900" height="900"></iframe>

@@ -22,6 +22,6 @@ We wanted to present an exploratory view of "signal" around these venues. Our id
 
 We used the geographical data to retrieve tweets sent from locations near the venues. The tweets can be seen in a populated sidebar by interacting with the map.
 
-Try the demo: [https://akshoop.github.io/DataVisFinal/](https://akshoop.github.io/DataVisFinal/)
+Try the demo: [https://akshoop.github.io/DataVisFinal/](https://akshoop.github.io/DataVisFinal/){:target="_blank"}
 
-Check out the source code: [https://github.com/akshoop/CS573-DataVis](https://github.com/akshoop/CS573-DataVis)
+Check out the source code: [https://github.com/akshoop/CS573-DataVis](https://github.com/akshoop/CS573-DataVis){:target="_blank"}
