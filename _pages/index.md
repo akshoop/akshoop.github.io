@@ -2,7 +2,7 @@
 title: "Hi, bonjour, and こんにちは"
 layout: single
 permalink: /
-date: 2018-09-18
+date: 2018-09-20
 author_profile: true
 header:
   overlay_filter: "0.6"
@@ -44,6 +44,11 @@ excerpt: "I'm an aspiring Data Scientist."
     <li>DS 503: Portfolio Risk Management using Big Data Technologies</li>
         <i class="fa fa-calendar fa-fw"></i> May 2018
         <a class="a_class" href="/assets/img/Final_Proposal_503.pdf">
+            <i class="fa fa-book fa-fw"></i> Research paper
+        </a>
+    <li>DS 502: Using Statistical Techniques for Historical Customer Purchasing Analysis</li>
+        <i class="fa fa-calendar fa-fw"></i> Dec 2017
+        <a class="a_class" href="/assets/img/DS502-FINAL_Paper.pdf">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
     <li>Independent Study: Evaluation of Fintech Companies using Big Data Tools</li>
