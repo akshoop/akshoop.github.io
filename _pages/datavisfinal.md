@@ -14,7 +14,7 @@ author_profile: true
 #   - Google Maps API
 ---
 
-{% include video id="mmTAOs1NQ2" provider="youtube" %}
+{% include video id="mmTAOs1NQ28" provider="youtube" %}
 
 For the CS 573 Data Visualization class final project, I worked with two Undergraduate students to create an interactive map of certified alcohol-serving venues in the city of Boston, MA. 
 
