@@ -16,7 +16,7 @@ This space is to show my Fall 2018 WPI Python-related programming projects. I wo
 
 This research project's focus was the development of robust image classifer models for geographically diverse image datasets, namely the Open Images V4 dataset.
 
-You can read the publicly accessible online research paper here: https://cabincabin.github.io/MLRobustClassifier/
+You can read the publicly accessible online research paper here: [Link](https://cabincabin.github.io/MLRobustClassifier/)
 
 ## Python & Computer Vision (CV)
 
