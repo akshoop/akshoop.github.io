@@ -1,5 +1,4 @@
 ---
-title: "Hi, bonjour, and こんにちは"
 layout: single
 permalink: /
 date: 2018-09-20
@@ -14,11 +13,9 @@ excerpt: "I'm an aspiring Data Scientist."
 
 <h2 id="about">About Me</h2>
 
-<p>I am a current graduate student at Worcester Polytechnic Institute (WPI) studying for a Masters in Data Science. I am very interested in the field of Machine Learning, Data Visualization, and the unique results achievable when combining Business with Data Science.</p>
+<p>I am an ai & ml enthusiast, researcher, and world citizen. 
 
-<p>I graduated with a Double BS in Actuarial Math and Computer Science from WPI in 2016. I also graduated with an MS in Financial Math from WPI in late 2017. I am on track to graduate with an MS in Data Science in late 2018.</p>
-
-<p>My other interests and hobbies include international travels (I'm fluent in English, Japanese, and French) as well as video production and filmmaking.</p>
+I recently graduated from WPI and I'm ready to try my hand in industry and beyond.</p>
 
 <h2 id="projects">Projects</h2>
 
@@ -31,7 +28,6 @@ excerpt: "I'm an aspiring Data Scientist."
         </a>
     <li>Sun Life Financial: Actuarial Analyst Intern</li>
         <i class="fa fa-calendar fa-fw"></i> Jun 2017 - Aug 2017
-        <p style="font-style:italic; font-size:15px; color:grey">More details coming soon...</p>
 </ul>
 
 <h3 id="acad">Academic Work</h3>
@@ -84,7 +80,7 @@ excerpt: "I'm an aspiring Data Scientist."
     
 </ul>
 
-<h2 id="education">Education & Certifications</h2>
+<h2 id="education">Education</h2>
 
 <ul>
     <li>WPI - MS, Data Science (Dec 2018)</li>
