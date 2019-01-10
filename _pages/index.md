@@ -1,20 +1,19 @@
 ---
 layout: single
 permalink: /
-date: 2018-09-20
+date: 2019-01-09
 author_profile: true
 header:
   overlay_filter: "0.6"
   overlay_image: /assets/img/IMG_3845-edit.png
-excerpt: "I'm an aspiring Data Scientist."
+excerpt: "ai & ml enthusiast, researcher, and world citizen"
 ---
 
 <noscript><p class="notice--warning">Enable JavaScript for best experience!</p></noscript>
 
 <h2 id="about">About Me</h2>
 
-<p>I am an ai & ml enthusiast, researcher, and world citizen. 
-
+<p>
 I recently graduated from WPI and I'm ready to try my hand in industry and beyond.</p>
 
 <h2 id="projects">Projects</h2>
