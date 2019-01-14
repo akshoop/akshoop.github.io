@@ -35,8 +35,14 @@ I'm a WPI alum and here's my portfolio of my various projects and experience.</p
         <i class="fa fa-calendar fa-fw"></i> Dec 2018
     <li>CS 539: Robust Image Classifiers for Geo-Diverse Distributions</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2018
+        <a class="a_class" href="/blog/PythonProjectsJanMeetup/">
+            <i class="fa fa-link fa-fw"></i> Read more
+        </a>
     <li>CS 549: Object Detection of Chess Pieces with aid of Artificial Intelligence Algorithms</li>
         <i class="fa fa-calendar fa-fw"></i> Dec 2018
+        <a class="a_class" href="/blog/PythonProjectsJanMeetup/">
+            <i class="fa fa-link fa-fw"></i> Read more
+        </a>
     <li>CS 573: Signal Search of Boston Liquor Venues</li>
         <i class="fa fa-calendar fa-fw"></i> Apr 2018
         <a class="a_class" href="/proj/datavisfinal/">
