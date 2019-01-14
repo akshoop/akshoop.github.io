@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_filter: "0.6"
   overlay_image: /assets/img/IMG_3845-edit.png
-excerpt: "ai & ml enthusiast, researcher, and world citizen"
+excerpt: "ai & ml enthusiast, developer, researcher, and world citizen"
 ---
 
 <noscript><p class="notice--warning">Enable JavaScript for best experience!</p></noscript>
@@ -14,11 +14,11 @@ excerpt: "ai & ml enthusiast, researcher, and world citizen"
 <h2 id="about">About Me</h2>
 
 <p>
-I recently graduated from WPI and I'm ready to try my hand in industry and beyond.</p>
+I'm a WPI alum and here's my portfolio of my various projects and experience.</p>
 
-<h2 id="projects">Projects</h2>
+<h2 id="projects">Projects/Experience</h2>
 
-<h3 id="acad">Professional Work</h3>
+<h3 id="acad">Professional Work Experience</h3>
 <ul class="ul1">
     <li>Harvard Pilgrim Healthcare: Healthcare Data Analyst Intern</li>
         <i class="fa fa-calendar fa-fw"></i> Jun 2018 - Jul 2018
@@ -29,15 +29,21 @@ I recently graduated from WPI and I'm ready to try my hand in industry and beyon
         <i class="fa fa-calendar fa-fw"></i> Jun 2017 - Aug 2017
 </ul>
 
-<h3 id="acad">Academic Work</h3>
+<h3 id="acad">Academic Team Projects</h3>
 <ul class="ul1">
+    <li>Graduate Qualifying Project: Automated Data Acquisition, Analysis, and Pre-processing</li>
+        <i class="fa fa-calendar fa-fw"></i> Dec 2018
+    <li>CS 539: Robust Image Classifiers for Geo-Diverse Distributions</li>
+        <i class="fa fa-calendar fa-fw"></i> Dec 2018
+    <li>CS 549: Object Detection of Chess Pieces with aid of Artificial Intelligence Algorithms</li>
+        <i class="fa fa-calendar fa-fw"></i> Dec 2018
     <li>CS 573: Signal Search of Boston Liquor Venues</li>
-        <i class="fa fa-calendar fa-fw"></i> May 2018
+        <i class="fa fa-calendar fa-fw"></i> Apr 2018
         <a class="a_class" href="/proj/datavisfinal/">
             <i class="fa fa-link fa-fw"></i> Read more
         </a>
     <li>DS 503: Portfolio Risk Management using Big Data Technologies</li>
-        <i class="fa fa-calendar fa-fw"></i> May 2018
+        <i class="fa fa-calendar fa-fw"></i> Apr 2018
         <a class="a_class" href="/assets/img/Final_Proposal_503.pdf" target="_blank">
             <i class="fa fa-book fa-fw"></i> Research paper
         </a>
