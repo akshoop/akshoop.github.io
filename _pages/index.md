@@ -3,10 +3,6 @@ layout: single
 permalink: /
 date: 2019-01-09
 author_profile: true
-header:
-  overlay_filter: "0.6"
-  overlay_image: /assets/img/IMG_3845-edit.png
-excerpt: "ai & ml enthusiast, developer, researcher, and world citizen"
 ---
 
 <noscript><p class="notice--warning">Enable JavaScript for best experience!</p></noscript>
@@ -14,9 +10,9 @@ excerpt: "ai & ml enthusiast, developer, researcher, and world citizen"
 <h2 id="about">About Me</h2>
 
 <p>
-I'm a WPI alum and here's my portfolio of my various projects and experience.</p>
+I'm a WPI alum and here's my portfolio of my projects and experience. Some things that describe me: AI & ML enthusiast, developer, researcher, and world citizen."</p>
 
-<h2 id="projects">Projects/Experience</h2>
+<h2 id="projects">Experience/Projects</h2>
 
 <h3 id="acad">Professional Work Experience</h3>
 <ul class="ul1">
