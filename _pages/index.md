@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-date: 2019-01-09
+date: 2019-01-17
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ author_profile: true
 <h2 id="about">About Me</h2>
 
 <p>
-I'm a WPI alum and here's my portfolio of my projects and experience. Some things that describe me: AI & ML enthusiast, developer, researcher, and world citizen."</p>
+I'm a WPI alum and here's my portfolio of my projects and experience. Some things that describe me: AI & ML enthusiast, developer, researcher, and world citizen.</p>
 
 <h2 id="projects">Experience/Projects</h2>
 
